@@ -783,5 +783,6 @@
 - [Salwa Mansour](https://github.com/Salwa-mansour)
 - [Sleepypeanut] (https://github.com/sleepypeanut)
 - [Ali Zain Aldeen] (https://github.com/ali-zain-aldeen)
+- [Garvit Srivastava] (https://github.com/Garvit-Srivastava)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
